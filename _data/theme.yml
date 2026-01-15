@@ -16,15 +16,15 @@
 #   - Best for: multi-chapter books, edited volumes, reference works
 #
 # Learn more: docs/cb-essay/theme-options.md
-base-theme: essay # essay or monograph
+base-theme: monograph # essay or monograph
 
 # TYPOGRAPHY & FONTS
 # Customize text appearance for optimal reading experience
-base-font-size: 1.3em                # Larger fonts work well for long-form reading (1.2em - 1.4em recommended)
-text-color: "#191919"                # Main text color
-link-color: "#0d6efd"                # Link color
-base-font-family: Georgia            # Serif fonts (Georgia, Garamond) for traditional scholarship; Sans-serif (Roboto, Open Sans) for modern feel
-font-cdn:                            # Optional: Add Google Fonts stylesheet URL here
+base-font-size: 1.3em # Larger fonts work well for long-form reading (1.2em - 1.4em recommended)
+text-color: "#191919" # Main text color
+link-color: "#0d6efd" # Link color
+base-font-family: "Libre Baskerville" # Serif fonts (Georgia, Garamond) for traditional scholarship; Sans-serif (Roboto, Open Sans) for modern feel
+font-cdn: <link href="https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400..700;1,400..700&display=swap" rel="stylesheet"> # Optional: Add Google Fonts stylesheet URL here
 
 
 ##########
@@ -41,10 +41,10 @@ font-cdn:                            # Optional: Add Google Fonts stylesheet URL
 # - External URL: https://example.com/image.jpg
 # - Collection objectid: demo_001
 #
-image-style: full-image              # full-image, half-image, or no-image
-featured-image: /assets/img/writing-instruments.jpg
-featured-image-credit: "General Research Division, The New York Public Library. 'An illustration of writing brushes' The New York Public Library Digital Collections. 1908. [https://digitalcollections.nypl.org/items/07caacb0-c6cc-012f-af8d-58d385a7bc34](https://digitalcollections.nypl.org/items/07caacb0-c6cc-012f-af8d-58d385a7bc34)"
-featured-image-alt-text: "An illustration of writing brushes with Japanese labels" # Add alt text for accessibility
+image-style: half-image              # full-image, half-image, or no-image
+featured-image: /assets/img/Frankenstein_1818.jpg
+featured-image-credit: "Frankenstein_1818.jpg"
+featured-image-alt-text: "Title page of Mary Shelley's Frankenstein, first edition 1818" # Add alt text for accessibility
 
 ##########
 # CollectionBuilder Theme Customization
