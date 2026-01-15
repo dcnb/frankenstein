@@ -42,9 +42,9 @@ font-cdn: <link href="https://fonts.googleapis.com/css2?family=Libre+Baskerville
 # - Collection objectid: demo_001
 #
 image-style: half-image              # full-image, half-image, or no-image
-featured-image: /assets/img/Frankenstein_1818.jpg
-featured-image-credit: "Frankenstein_1818.jpg"
-featured-image-alt-text: "Title page of Mary Shelley's Frankenstein, first edition 1818" # Add alt text for accessibility
+featured-image: /assets/img/Frontispiece_to_Frankenstein_1831.jpg
+featured-image-credit: "Illustration by Theodor von Holst from the frontispiece of the 1831 edition"
+featured-image-alt-text: "Engraving showing Victor Frankenstein recoiling in horror from his newly animated creature, who lies on a table in a Gothic chamber with an arched window." # Add alt text for accessibility
 
 ##########
 # CollectionBuilder Theme Customization
