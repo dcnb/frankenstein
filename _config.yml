@@ -46,13 +46,13 @@ source-code: https://github.com/CollectionBuilder/collectionbuilder-csv
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: CB-Essay
-author: 
+title: "Frankenstein; Or, The Modern Prometheus"
+author: Mary Wollstonecraft Shelley, 1797-1851
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: Essay in the front, CollectionBuilder in the back
+tagline: 
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "CB-Essay combines CollectionBuilder-CSV with essay and exhibit capabilities, allowing you to create multi-modal narratives that incorporate items from your digital collection directly into your writing and pages."
+description: "CB-Essay Example site for Frankenstein, as extracted from Project Gutenberg "
 # keywords, a short list of subjects describing the collection, separated by semicolon, to appear in rich markup
 keywords: digital humanities; multimodal essays; lib-static
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
