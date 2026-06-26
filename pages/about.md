@@ -10,4 +10,6 @@ text-search: false
 
 ## About This Edition
 
-This edition was automatically generated from [Project Gutenberg](https://www.gutenberg.org/about/),  the preeminent online library of public domain ebooks on the internet. The edition is published using [CB-Essay](https://collectionbuilder.github.io/cb-essay/), and the text used for this edition was extracted via its [Gutenberg Extraction Script](https://github.com/CollectionBuilder/cb-essay/blob/main/gutenberg-extraction.py).
+This edition was automatically generated from [Project Gutenberg](https://www.gutenberg.org/about/),  the preeminent online library of public domain ebooks on the internet. The site offers more than 75,000 free eBooks.
+
+The edition is published using [CB-Essay](https://collectionbuilder.github.io/cb-essay/), and the text used for this edition was extracted via its [Gutenberg Extraction Script](https://github.com/CollectionBuilder/cb-essay/blob/main/gutenberg-extraction.py).
