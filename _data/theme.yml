@@ -120,10 +120,10 @@ font-cdn: "https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@
 # The print hub is available at /print/ once added to config-nav.csv.
 #
 print:
-  author:                  # Author name for PDF <meta> and cover page
+  author: Shelley, Mary Wollstonecraft, 1797-1851                 # Author name for PDF <meta> and cover page
   institution:             # Institution shown on cover page
   cover-subtitle:          # Subtitle line beneath site title on book cover
-  cover-image: false       # true/false — show featured-image on book cover by default
+  cover-image: true       # true/false — show featured-image on book cover by default
   show-individual: true    # true/false — show individual essay print cards
   show-book: true          # true/false — show book builder section
   aside-style: margin      # margin (float into page gutter) | inline (indented callout block)
