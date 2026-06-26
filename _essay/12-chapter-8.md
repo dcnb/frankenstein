@@ -1,4 +1,5 @@
 ---
+part: Two
 title: Chapter 8
 order: 12
 ---

@@ -1,4 +1,5 @@
 ---
+part: Two
 title: Chapter 22
 order: 26
 ---

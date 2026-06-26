@@ -1,4 +1,5 @@
 ---
+part: Two
 title: Chapter 23
 order: 27
 ---

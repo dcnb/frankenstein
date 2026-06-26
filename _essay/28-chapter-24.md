@@ -1,4 +1,5 @@
 ---
+part: Two
 title: Chapter 24
 order: 28
 ---

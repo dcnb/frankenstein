@@ -1,4 +1,5 @@
 ---
+part: Two
 title: Chapter 4
 order: 8
 ---

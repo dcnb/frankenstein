@@ -1,4 +1,5 @@
 ---
+part: One
 title: Letter 2
 order: 2
 ---

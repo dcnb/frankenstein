@@ -1,4 +1,5 @@
 ---
+part: Two
 title: Chapter 7
 order: 11
 ---

@@ -1,4 +1,5 @@
 ---
+part: Two
 title: Chapter 2
 order: 6
 ---
